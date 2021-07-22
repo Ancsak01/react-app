@@ -1,10 +1,12 @@
 import React from 'react';
 import './site.css'
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom';
 
 import Nav from './components/nav';
 import Comments from './components/comments'
 import Event from './components/event'
+import Home from './components/home';
+import About from './components/about';
 
 class App extends React.Component {
 
@@ -15,6 +17,8 @@ class App extends React.Component {
                 <Switch>
                     <Route path="/comments" component={Comments} />
                     <Route path="/events" component={Event} />
+                    <Route path="/home" component={Home} />
+                    <Route path="/about" component={About} />
                 </Switch>
             </main>
         )

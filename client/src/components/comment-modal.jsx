@@ -63,7 +63,7 @@ export default class CommentModal extends React.Component {
             <Modal show={this.props.show} onHide={this.props.onClose}>
                 <Modal.Dialog>
                     <Modal.Header >
-                        <Modal.Title>Modal title</Modal.Title>
+                        <Modal.Title>Comment</Modal.Title>
                     </Modal.Header>
 
                     <Modal.Body>
