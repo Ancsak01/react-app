@@ -12,34 +12,47 @@ class Event extends React.Component {
             filterName: "",
             filterArea: ""
         }
+        this.getFilteredData = this.getFilteredData.bind(this)
+        this.setStates = this.setStates.bind(this)
     }
     componentDidMount() {
         axios.get('http://localhost:5000/event').then(res => {
             this.setState({ eventData: res.data })
         })
     }
-    render() {
+
+    getFilteredData() {
         const filteredData = this.state.eventData.filter(item => {
             let chosenItem = (this.state.filterArea) ? item[this.state.filterArea].toString() : item["file_name"]
-            if (this.state.filterArea) {
-                console.log(item[this.state.filterArea]);
-            }
+            console.log(this.state.filterArea)
             return chosenItem.toLowerCase().includes(this.state.filterName.toLowerCase())
         })
-        const sampleData = this.state.eventData;
+        return filteredData;
+    }
+
+    setStates(key, value) {
+        console.log("asdasdsa")
+        switch (key) {
+            case 'FilterArea':
+                this.setState({filterArea: value})
+                break;
+            case 'FilterName':
+                this.setState({filterName: value})
+                break;
+
+            default:
+                break;
+        }
+    }
+
+    render() {
         Moment.locale('hu');
         return (
             <main>
-                <InputGroup>
-                    <select name="filterArea" id="filterArea" onChange={(data) => this.setState({ filterArea: data.target.value })}>
-                        {(sampleData[0]) ? Object.keys(sampleData[0]).map((item, index) => {
-                            return (
-                                <option key={index} value={item}>{item}</option>
-                            )
-                        }) : null}
-                    </select>
-                    <input type="text" name="filter" id="filter" placeholder="filter goes here..." onChange={(e) => { this.setState({ filterName: e.target.value }) }} />
-                </InputGroup>
+                <FilterData
+                    data={this.state.eventData}
+                    setStates={this.setStates}
+                />
                 <div className="container-fluid">
                     <table className="table table-responsive">
                         <thead>
@@ -53,7 +66,7 @@ class Event extends React.Component {
                         </thead>
                         <tbody>
                             {
-                                filteredData
+                                this.getFilteredData()
                                     .map((item, index) => {
                                         return (
                                             <tr key={index}>
