@@ -22,16 +22,13 @@ class Event extends React.Component {
     }
 
     getFilteredData() {
-        const filteredData = this.state.eventData.filter(item => {
+        return this.state.eventData.filter(item => {
             let chosenItem = (this.state.filterArea) ? item[this.state.filterArea].toString() : item["file_name"]
-            console.log(this.state.filterArea)
             return chosenItem.toLowerCase().includes(this.state.filterName.toLowerCase())
         })
-        return filteredData;
     }
 
     setStates(key, value) {
-        console.log("asdasdsa")
         switch (key) {
             case 'FilterArea':
                 this.setState({filterArea: value})

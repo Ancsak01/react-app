@@ -3,6 +3,7 @@ import axios from 'axios';
 
 import CommentModal from './comment-modal';
 import Comment from '../models/Comment'
+import FilterData from './filter-data'
 
 export default class Comments extends React.Component {
     constructor(props) {
@@ -11,8 +12,12 @@ export default class Comments extends React.Component {
             data: [],
             err: [],
             toLoadData: Comment.model(),
-            show: false
+            show: false,
+            filterArea: "",
+            filterName: ""
         }
+        this.getFilteredData = this.getFilteredData.bind(this)
+        this.setStates = this.setStates.bind(this)
     }
 
     componentDidMount() {
@@ -28,10 +33,35 @@ export default class Comments extends React.Component {
         this.setState({ show: true });
     }
 
+    getFilteredData() {
+        return this.state.data.filter(item => {
+            let chosenItem = (this.state.filterArea) ? item[this.state.filterArea].toString() : item["id"].toString()
+            return chosenItem.toLowerCase().includes(this.state.filterName.toLowerCase())
+        })
+    }
+
+    setStates(key, value) {
+        switch (key) {
+            case 'FilterArea':
+                this.setState({filterArea: value})
+                break;
+            case 'FilterName':
+                this.setState({filterName: value})
+                break;
+
+            default:
+                break;
+        }
+    }
+
     render() {
         return (
             <main>
-                <CommentModal onClose={() => this.setState({show: false})} show={this.state.show}  data={this.state.toLoadData}/>
+                <CommentModal onClose={() => this.setState({ show: false })} show={this.state.show} data={this.state.toLoadData} />
+                <FilterData 
+                    data={this.state.data}
+                    setStates={this.setStates}
+                />
                 <div className="container-fluid">
                     <table className="table table-responsive" >
                         <thead>
@@ -45,7 +75,7 @@ export default class Comments extends React.Component {
                         </thead>
                         <tbody>
                             {
-                                this.state.data.map((item, index) => {
+                                this.getFilteredData().map((item, index) => {
                                     return (
                                         <tr key={index}>
                                             <td>{item.postId}</td>
