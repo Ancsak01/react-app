@@ -1,0 +1,2438 @@
+[
+  {
+    "id": 1,
+    "file_name": "\\\\sgmscfs01\\SGHU_TEF_Cloud$\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\2020-12-23_08h55_00.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-01-29T10:58:41.447",
+    "event": 6
+  },
+  {
+    "id": 2,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\2020-12-23_08h55_00.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-01-29T11:01:21.583",
+    "event": 6
+  },
+  {
+    "id": 3,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\2020-12-23_11h27_24.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-01-29T11:50:39.28",
+    "event": 5
+  },
+  {
+    "id": 4,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\audia4b5diagram.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-01-29T11:54:06.577",
+    "event": 5
+  },
+  {
+    "id": 5,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\audia4b5diagram.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-01-29T11:57:42.48",
+    "event": 6
+  },
+  {
+    "id": 6,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\2020-12-16_11h35_10.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-01T11:04:47.173",
+    "event": 5
+  },
+  {
+    "id": 7,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\\\V01.00.00\\2020-12-16_11h35_10.png",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T10:17:09.657",
+    "event": 6
+  },
+  {
+    "id": 8,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T10:26:58.203",
+    "event": 5
+  },
+  {
+    "id": 9,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T10:27:21.857",
+    "event": 6
+  },
+  {
+    "id": 10,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\test1.test",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-02T11:29:16.8",
+    "event": 1
+  },
+  {
+    "id": 11,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\test2.test",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-02T11:29:22.87",
+    "event": 1
+  },
+  {
+    "id": 12,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\test1.test",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-02T11:29:36.14",
+    "event": 4
+  },
+  {
+    "id": 13,
+    "file_name": "\\Starter\\F2\\AG0500\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\F2_AG0500_Q981_AT1_V06.01.pdf",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-02T11:31:58.627",
+    "event": 6
+  },
+  {
+    "id": 14,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\test3.test",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-02T11:34:23.977",
+    "event": 1
+  },
+  {
+    "id": 15,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\test3.test",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-02T11:35:13.337",
+    "event": 4
+  },
+  {
+    "id": 16,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\test2.test",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T12:13:15.257",
+    "event": 4
+  },
+  {
+    "id": 17,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T12:15:03.987",
+    "event": 6
+  },
+  {
+    "id": 18,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\asd.test",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T12:15:40.223",
+    "event": 1
+  },
+  {
+    "id": 19,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\asd.test\\tf2-spy.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T12:16:06.843",
+    "event": 5
+  },
+  {
+    "id": 20,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\asd.test\\tf2-spy.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T12:16:10.243",
+    "event": 6
+  },
+  {
+    "id": 21,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\tf2-spy.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T12:16:37.497",
+    "event": 3
+  },
+  {
+    "id": 22,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T12:17:10.95",
+    "event": 4
+  },
+  {
+    "id": 23,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\asd.test\\tf2-spy.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-02T12:18:06.777",
+    "event": 6
+  },
+  {
+    "id": 24,
+    "file_name": "\\Starter\\D1\\TESZT23\\Control\\Img\\uploadtest.test\\2020-08-11_10h01_57.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-03T08:17:01.137",
+    "event": 5
+  },
+  {
+    "id": 25,
+    "file_name": " /Starter/D1/TESZT23/Control/Img/uploadtest.test/2020-08-11_10h01_57.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-03T08:17:05.127",
+    "event": 4
+  },
+  {
+    "id": 26,
+    "file_name": "\\TEMPFILES\\2020-09-23_09h35_50.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-03T08:48:11.13",
+    "event": 5
+  },
+  {
+    "id": 27,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\2020-12-16_11h35_10.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T08:58:02.6",
+    "event": 6
+  },
+  {
+    "id": 28,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T09:51:00.597",
+    "event": 6
+  },
+  {
+    "id": 29,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T09:56:04.717",
+    "event": 6
+  },
+  {
+    "id": 30,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T09:58:04.48",
+    "event": 6
+  },
+  {
+    "id": 31,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T10:02:07.837",
+    "event": 6
+  },
+  {
+    "id": 32,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:27:29.793",
+    "event": 6
+  },
+  {
+    "id": 33,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:32:40.3",
+    "event": 6
+  },
+  {
+    "id": 34,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:33:07.637",
+    "event": 6
+  },
+  {
+    "id": 35,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:33:59.467",
+    "event": 6
+  },
+  {
+    "id": 36,
+    "file_name": "\\TEMPFILES\\D1_TESZT23_2020-12-23_11h27_24.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T10:34:24.783",
+    "event": 5
+  },
+  {
+    "id": 37,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:34:56.243",
+    "event": 6
+  },
+  {
+    "id": 38,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:35:47.633",
+    "event": 6
+  },
+  {
+    "id": 39,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:37:43.903",
+    "event": 6
+  },
+  {
+    "id": 40,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:43:08.69",
+    "event": 6
+  },
+  {
+    "id": 41,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:43:59.457",
+    "event": 6
+  },
+  {
+    "id": 42,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:43:59.53",
+    "event": 6
+  },
+  {
+    "id": 43,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:44:07.317",
+    "event": 6
+  },
+  {
+    "id": 44,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:44:14.713",
+    "event": 6
+  },
+  {
+    "id": 45,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:46:10.727",
+    "event": 6
+  },
+  {
+    "id": 46,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:46:57.043",
+    "event": 6
+  },
+  {
+    "id": 47,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T10:47:05.23",
+    "event": 6
+  },
+  {
+    "id": 48,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:01:41.82",
+    "event": 6
+  },
+  {
+    "id": 49,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:03:44.247",
+    "event": 6
+  },
+  {
+    "id": 50,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:03:58.537",
+    "event": 6
+  },
+  {
+    "id": 51,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:06:55.86",
+    "event": 6
+  },
+  {
+    "id": 52,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:23:03.4",
+    "event": 6
+  },
+  {
+    "id": 53,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T11:30:22.263",
+    "event": 6
+  },
+  {
+    "id": 54,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:31:35.223",
+    "event": 6
+  },
+  {
+    "id": 55,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:32:23.15",
+    "event": 6
+  },
+  {
+    "id": 56,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:37:10.077",
+    "event": 6
+  },
+  {
+    "id": 57,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:37:42.027",
+    "event": 6
+  },
+  {
+    "id": 58,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T11:39:12.167",
+    "event": 6
+  },
+  {
+    "id": 59,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:43:01.687",
+    "event": 6
+  },
+  {
+    "id": 60,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:44:14.19",
+    "event": 6
+  },
+  {
+    "id": 61,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:44:54.117",
+    "event": 6
+  },
+  {
+    "id": 62,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:44:55.03",
+    "event": 6
+  },
+  {
+    "id": 63,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:44:55.703",
+    "event": 6
+  },
+  {
+    "id": 64,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:44:56.383",
+    "event": 6
+  },
+  {
+    "id": 65,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:44:57.047",
+    "event": 6
+  },
+  {
+    "id": 66,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:44:58.133",
+    "event": 6
+  },
+  {
+    "id": 67,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:44:58.803",
+    "event": 6
+  },
+  {
+    "id": 68,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:44:59.593",
+    "event": 6
+  },
+  {
+    "id": 69,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:45:00.27",
+    "event": 6
+  },
+  {
+    "id": 70,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:45:01.007",
+    "event": 6
+  },
+  {
+    "id": 71,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:45:01.647",
+    "event": 6
+  },
+  {
+    "id": 72,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:45:02.313",
+    "event": 6
+  },
+  {
+    "id": 73,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:45:02.987",
+    "event": 6
+  },
+  {
+    "id": 74,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:45:03.843",
+    "event": 6
+  },
+  {
+    "id": 75,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:45:05.017",
+    "event": 6
+  },
+  {
+    "id": 76,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:45:05.743",
+    "event": 6
+  },
+  {
+    "id": 77,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:45:06.473",
+    "event": 6
+  },
+  {
+    "id": 78,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:48:27.503",
+    "event": 6
+  },
+  {
+    "id": 79,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:52:43.22",
+    "event": 6
+  },
+  {
+    "id": 80,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:53:21.55",
+    "event": 6
+  },
+  {
+    "id": 81,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:58:14.59",
+    "event": 6
+  },
+  {
+    "id": 82,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T11:59:50.637",
+    "event": 6
+  },
+  {
+    "id": 83,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-04T12:00:21.747",
+    "event": 6
+  },
+  {
+    "id": 84,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:06:10.517",
+    "event": 6
+  },
+  {
+    "id": 85,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\2020-12-16_11h35_10.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:07:14.987",
+    "event": 6
+  },
+  {
+    "id": 86,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:07:30.663",
+    "event": 5
+  },
+  {
+    "id": 87,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:07:37.907",
+    "event": 6
+  },
+  {
+    "id": 88,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:22:27.62",
+    "event": 6
+  },
+  {
+    "id": 89,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:23:25.307",
+    "event": 6
+  },
+  {
+    "id": 90,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:24:22.77",
+    "event": 6
+  },
+  {
+    "id": 91,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:26:56.253",
+    "event": 6
+  },
+  {
+    "id": 92,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:30:34.613",
+    "event": 6
+  },
+  {
+    "id": 93,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\2020-12-16_11h35_10.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:31:01.273",
+    "event": 6
+  },
+  {
+    "id": 94,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:32:20.657",
+    "event": 6
+  },
+  {
+    "id": 95,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-04T12:33:04.317",
+    "event": 6
+  },
+  {
+    "id": 96,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-05T07:57:12.58",
+    "event": 6
+  },
+  {
+    "id": 97,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-05T07:58:02.943",
+    "event": 6
+  },
+  {
+    "id": 98,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-05T08:01:58.683",
+    "event": 6
+  },
+  {
+    "id": 99,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-05T08:02:24.543",
+    "event": 6
+  },
+  {
+    "id": 100,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-05T08:03:17.443",
+    "event": 6
+  },
+  {
+    "id": 101,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-05T08:04:33.41",
+    "event": 6
+  },
+  {
+    "id": 102,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-05T08:05:41.407",
+    "event": 6
+  },
+  {
+    "id": 103,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-05T08:06:05.627",
+    "event": 6
+  },
+  {
+    "id": 104,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\2020-12-16_11h35_10.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-05T08:10:37.767",
+    "event": 6
+  },
+  {
+    "id": 105,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T08:42:11.893",
+    "event": 6
+  },
+  {
+    "id": 106,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T08:57:09.487",
+    "event": 6
+  },
+  {
+    "id": 107,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T08:57:27.323",
+    "event": 6
+  },
+  {
+    "id": 108,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T08:58:00.037",
+    "event": 6
+  },
+  {
+    "id": 109,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T08:58:26.293",
+    "event": 6
+  },
+  {
+    "id": 110,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\2020-12-16_11h35_10.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T09:06:23.02",
+    "event": 6
+  },
+  {
+    "id": 111,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\Temp.zip",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T09:08:22.097",
+    "event": 6
+  },
+  {
+    "id": 112,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T09:17:19.017",
+    "event": 6
+  },
+  {
+    "id": 113,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T09:47:35.577",
+    "event": 6
+  },
+  {
+    "id": 114,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T09:48:07.747",
+    "event": 6
+  },
+  {
+    "id": 115,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T09:48:49.987",
+    "event": 6
+  },
+  {
+    "id": 116,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T10:00:03.147",
+    "event": 6
+  },
+  {
+    "id": 117,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T10:35:30.843",
+    "event": 6
+  },
+  {
+    "id": 118,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T10:36:12.927",
+    "event": 6
+  },
+  {
+    "id": 119,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\Temp.zip",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-05T10:37:35.123",
+    "event": 6
+  },
+  {
+    "id": 120,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-08T11:50:22.577",
+    "event": 6
+  },
+  {
+    "id": 121,
+    "file_name": "\\TEMPFILES\\D1_TESZT23_2020-07-01_11h23_42.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-11T10:14:14.16",
+    "event": 5
+  },
+  {
+    "id": 122,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\asd.test\\tf2-spy.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-12T09:57:28.657",
+    "event": 6
+  },
+  {
+    "id": 123,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00//Layout",
+    "login_name": "84MC",
+    "timestamp": "2021-02-12T09:58:09.13",
+    "event": 3
+  },
+  {
+    "id": 124,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\i-have-to-laugh-to-keep-from-crying.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-12T13:52:57.86",
+    "event": 5
+  },
+  {
+    "id": 125,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\i-have-to-laugh-to-keep-from-crying.jpg",
+    "login_name": "84MC",
+    "timestamp": "2021-02-12T13:53:04.983",
+    "event": 6
+  },
+  {
+    "id": 126,
+    "file_name": "\\TEMPFILES\\D1_AG3600_2020-12-23_08h55_00.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-15T16:12:15.797",
+    "event": 5
+  },
+  {
+    "id": 127,
+    "file_name": "\\TEMPFILES\\D1_AG3600_2020-12-23_11h47_57.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-15T16:14:03.6",
+    "event": 5
+  },
+  {
+    "id": 128,
+    "file_name": "\\TEMPFILES\\D1_AG3600_2020-12-23_11h41_02.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-15T16:16:16.647",
+    "event": 5
+  },
+  {
+    "id": 129,
+    "file_name": "\\TEMPFILES\\D1_AG3400_2021-01-04_07h24_08.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-15T16:58:15.647",
+    "event": 5
+  },
+  {
+    "id": 130,
+    "file_name": "\\TEMPFILES\\P1_null_2020-09-05_19h00_42.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-16T06:44:53.497",
+    "event": 5
+  },
+  {
+    "id": 131,
+    "file_name": "\\TEMPFILES\\D4_AG0170_2020-10-14_12h38_25.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-16T06:45:44.07",
+    "event": 5
+  },
+  {
+    "id": 132,
+    "file_name": "\\TEMPFILES\\D1_AG3950_Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-17T13:53:55.497",
+    "event": 5
+  },
+  {
+    "id": 133,
+    "file_name": "\\TEMPFILES\\D1_AG3300_2021-01-27_11h44_56.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-18T10:15:30.273",
+    "event": 5
+  },
+  {
+    "id": 134,
+    "file_name": "\\TEMPFILES\\D1_AG3650_2020-07-07_12h00_42.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-18T10:16:36.203",
+    "event": 5
+  },
+  {
+    "id": 135,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-19T08:38:35.58",
+    "event": 6
+  },
+  {
+    "id": 136,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\tf2-spy.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-19T08:57:50.747",
+    "event": 6
+  },
+  {
+    "id": 137,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Layout\\V03.01.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-19T12:17:14.43",
+    "event": 1
+  },
+  {
+    "id": 138,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Layout\\V03.01.01",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-19T12:17:16.533",
+    "event": 1
+  },
+  {
+    "id": 139,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Layout\\V04.01.01",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-19T12:22:12.427",
+    "event": 1
+  },
+  {
+    "id": 140,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\humor.PNG",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-22T08:30:07.687",
+    "event": 5
+  },
+  {
+    "id": 141,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-22T08:49:06.547",
+    "event": 3
+  },
+  {
+    "id": 142,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\asd.test\\humor.PNG",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-22T08:49:26.807",
+    "event": 4
+  },
+  {
+    "id": 143,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Layout\\asd.test",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-22T09:21:05.7",
+    "event": 4
+  },
+  {
+    "id": 144,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings//asd.test",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-22T09:25:32.283",
+    "event": 3
+  },
+  {
+    "id": 145,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00//asd.test",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-22T09:45:28.307",
+    "event": 3
+  },
+  {
+    "id": 146,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\asd.test\\2020-12-16_11h35_10.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-22T09:49:16.56",
+    "event": 4
+  },
+  {
+    "id": 147,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\humor.PNG",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-22T09:50:03.663",
+    "event": 3
+  },
+  {
+    "id": 148,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\\\asd.test\\humor.PNG",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-22T10:07:13.017",
+    "event": 3
+  },
+  {
+    "id": 149,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\\\asd.test\\i-have-to-laugh-to-keep-from-crying.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-22T10:07:13.017",
+    "event": 3
+  },
+  {
+    "id": 150,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\2020-12-16_11h35_10.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-22T10:10:32.51",
+    "event": 4
+  },
+  {
+    "id": 151,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\i-have-to-laugh-to-keep-from-crying.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-22T10:10:32.51",
+    "event": 4
+  },
+  {
+    "id": 152,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\asd.test\\humor.PNG",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-22T10:11:16.663",
+    "event": 4
+  },
+  {
+    "id": 153,
+    "file_name": "\\Starter\\D1\\AG3500_UR\\Documentations\\Machine_manual\\User_manuals\\V01.00.00\\1_Kezelés_v007.pdf",
+    "login_name": "H2MC",
+    "timestamp": "2021-02-25T07:08:45.83",
+    "event": 6
+  },
+  {
+    "id": 154,
+    "file_name": "\\TEMPFILES\\D1_TESZT23_2020-12-23_11h27_24.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-25T11:33:18.167",
+    "event": 5
+  },
+  {
+    "id": 155,
+    "file_name": "\\TEMPFILES\\D1_TESZT23_2020-12-23_11h47_57.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-25T11:34:17.783",
+    "event": 5
+  },
+  {
+    "id": 156,
+    "file_name": "\\TEMPFILES\\D1_AG3300_2021-01-27_11h44_56.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-25T11:35:52.443",
+    "event": 5
+  },
+  {
+    "id": 157,
+    "file_name": "\\TEMPFILES\\D1_AG3500_2020-10-15_14h23_42.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-25T11:39:03.493",
+    "event": 5
+  },
+  {
+    "id": 158,
+    "file_name": "\\TEMPFILES\\D1_AG3500_2020-12-23_11h41_02.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-25T11:45:39.337",
+    "event": 5
+  },
+  {
+    "id": 159,
+    "file_name": "\\TEMPFILES\\D1_TESZT23_2020-12-23_11h41_02.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-26T08:54:26.7",
+    "event": 5
+  },
+  {
+    "id": 160,
+    "file_name": "\\TEMPFILES\\D1_TESZT23_2021-01-04_07h24_08.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-26T09:53:55.68",
+    "event": 5
+  },
+  {
+    "id": 161,
+    "file_name": "\\TEMPFILES\\D1_AG3780_2020-07-24_12h32_25.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-26T10:59:34.93",
+    "event": 5
+  },
+  {
+    "id": 162,
+    "file_name": "\\TEMPFILES\\D1_AG3780_2021-01-28_10h34_22.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-26T11:01:34.73",
+    "event": 5
+  },
+  {
+    "id": 163,
+    "file_name": "\\TEMPFILES\\D1_AG3600_2020-12-23_11h41_02.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-26T11:02:50.69",
+    "event": 5
+  },
+  {
+    "id": 164,
+    "file_name": "\\TEMPFILES\\D1_AG3600_2021-02-04_11h48_28.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-26T11:04:49.153",
+    "event": 5
+  },
+  {
+    "id": 165,
+    "file_name": "\\TEMPFILES\\D1_AG3400_2020-09-23_09h35_50.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-02-26T11:51:36.16",
+    "event": 5
+  },
+  {
+    "id": 166,
+    "file_name": "\\Starter\\D2\\AG3300\\Documentations\\Instructions\\Work_instructions\\ATU\\V03.00.00\\ATU_MOE2_EOL_AG3300_V003_20190107.pdf",
+    "login_name": "V2MC",
+    "timestamp": "2021-02-26T12:44:33.237",
+    "event": 6
+  },
+  {
+    "id": 167,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\asd.test\\humor.PNG",
+    "login_name": "V2MC",
+    "timestamp": "2021-02-26T12:54:02.473",
+    "event": 6
+  },
+  {
+    "id": 168,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.01.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-05T07:29:48.097",
+    "event": 1
+  },
+  {
+    "id": 169,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.01.00\\humor.PNG",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-05T07:36:51.923",
+    "event": 5
+  },
+  {
+    "id": 170,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V02.01.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-05T10:17:37.92",
+    "event": 1
+  },
+  {
+    "id": 171,
+    "file_name": "\\Starter\\D1\\TESZT23\\Control\\PLC\\V01.00.00\\2020-09-23_09h35_50.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-16T09:10:27.207",
+    "event": 5
+  },
+  {
+    "id": 172,
+    "file_name": " /Starter/D1/TESZT23/Control/PLC/V01.00.00/2020-09-23_09h35_50.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-16T09:28:05.257",
+    "event": 4
+  },
+  {
+    "id": 173,
+    "file_name": "/TEMPFILES/\\file[0]",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-16T09:37:07.377",
+    "event": 5
+  },
+  {
+    "id": 174,
+    "file_name": "\\Starter\\D1\\TESZT23\\Control\\PLC\\V01.00.00\\Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-17T11:27:47.907",
+    "event": 5
+  },
+  {
+    "id": 175,
+    "file_name": " /Starter/D1/TESZT23/Control/PLC/V01.00.00/Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-17T11:28:38.333",
+    "event": 4
+  },
+  {
+    "id": 176,
+    "file_name": "\\Starter\\D1\\TESZT23\\Control\\PLC\\V01.00.00\\Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-17T11:29:41.93",
+    "event": 5
+  },
+  {
+    "id": 177,
+    "file_name": " /Starter/D1/TESZT23/Control/PLC/V01.00.00/Temp.zip",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-17T11:38:09.613",
+    "event": 4
+  },
+  {
+    "id": 178,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V03.00.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T09:57:54.033",
+    "event": 1
+  },
+  {
+    "id": 179,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T11:46:33.533",
+    "event": 1
+  },
+  {
+    "id": 180,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T11:46:52.3",
+    "event": 1
+  },
+  {
+    "id": 181,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T12:28:02.287",
+    "event": 1
+  },
+  {
+    "id": 182,
+    "file_name": "/TEMPFILES/\\crying2.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T12:28:03.1",
+    "event": 5
+  },
+  {
+    "id": 183,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T12:35:14.737",
+    "event": 1
+  },
+  {
+    "id": 184,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00\\crying2.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T12:35:15.05",
+    "event": 5
+  },
+  {
+    "id": 185,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T12:42:59.453",
+    "event": 1
+  },
+  {
+    "id": 186,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00\\crying2.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T12:42:59.787",
+    "event": 5
+  },
+  {
+    "id": 187,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T12:43:45.813",
+    "event": 1
+  },
+  {
+    "id": 188,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00\\crying2.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T12:43:46.377",
+    "event": 5
+  },
+  {
+    "id": 189,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T12:44:23.867",
+    "event": 1
+  },
+  {
+    "id": 190,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00\\crying2.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-19T12:44:24.207",
+    "event": 5
+  },
+  {
+    "id": 191,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V01.01.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-19T13:24:24.387",
+    "event": 1
+  },
+  {
+    "id": 192,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V01.01.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-19T13:42:04.183",
+    "event": 1
+  },
+  {
+    "id": 193,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-19T14:10:21.207",
+    "event": 1
+  },
+  {
+    "id": 194,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-19T14:14:08.847",
+    "event": 1
+  },
+  {
+    "id": 195,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-19T14:16:34.317",
+    "event": 1
+  },
+  {
+    "id": 196,
+    "file_name": "\\TEMPFILES\\D1_TESZT23_2021-01-28_10h34_22.png_undefined,D1_TESZT23_2021-01-29_09h56_35.png_undefined",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-19T14:16:39.23",
+    "event": 5
+  },
+  {
+    "id": 197,
+    "file_name": "\\TEMPFILES\\D1_TESZT23_2021-01-28_10h34_22.png_undefined,D1_TESZT23_2021-01-29_09h56_35.png_undefined",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-19T14:16:39.283",
+    "event": 5
+  },
+  {
+    "id": 198,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T08:35:12.843",
+    "event": 1
+  },
+  {
+    "id": 199,
+    "file_name": "\\TEMPFILES\\D1__2021-01-28_10h34_22.png_undefined,D1__2021-01-29_09h56_35.png_undefined",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T08:35:32.287",
+    "event": 5
+  },
+  {
+    "id": 200,
+    "file_name": "\\TEMPFILES\\D1__2021-01-28_10h34_22.png_undefined,D1__2021-01-29_09h56_35.png_undefined",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T08:35:33.053",
+    "event": 5
+  },
+  {
+    "id": 201,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T08:45:19.18",
+    "event": 1
+  },
+  {
+    "id": 202,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T08:45:44.55",
+    "event": 1
+  },
+  {
+    "id": 203,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T09:01:52.52",
+    "event": 1
+  },
+  {
+    "id": 204,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T09:02:56.293",
+    "event": 1
+  },
+  {
+    "id": 205,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T09:06:12.29",
+    "event": 1
+  },
+  {
+    "id": 206,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T09:09:38.313",
+    "event": 1
+  },
+  {
+    "id": 207,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T09:10:17.9",
+    "event": 1
+  },
+  {
+    "id": 208,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T09:17:13.667",
+    "event": 1
+  },
+  {
+    "id": 209,
+    "file_name": "\\TEMPFILES\\D1_TESZT23_2021-01-28_10h34_22.png_undefined,D1_TESZT23_2021-01-29_09h56_35.png_undefined",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T09:18:52.563",
+    "event": 5
+  },
+  {
+    "id": 210,
+    "file_name": "\\TEMPFILES\\D1_TESZT23_2021-01-28_10h34_22.png_undefined,D1_TESZT23_2021-01-29_09h56_35.png_undefined",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T09:18:53.343",
+    "event": 5
+  },
+  {
+    "id": 211,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T09:37:05.327",
+    "event": 1
+  },
+  {
+    "id": 212,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T09:47:29.307",
+    "event": 1
+  },
+  {
+    "id": 213,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T10:03:08.307",
+    "event": 1
+  },
+  {
+    "id": 214,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T10:07:43.397",
+    "event": 1
+  },
+  {
+    "id": 215,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T10:25:00.463",
+    "event": 1
+  },
+  {
+    "id": 216,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T10:53:37.61",
+    "event": 1
+  },
+  {
+    "id": 217,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T10:54:50.927",
+    "event": 1
+  },
+  {
+    "id": 218,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T10:56:21.367",
+    "event": 1
+  },
+  {
+    "id": 219,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T11:19:02.69",
+    "event": 1
+  },
+  {
+    "id": 220,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T11:20:48.607",
+    "event": 1
+  },
+  {
+    "id": 221,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T11:21:02.983",
+    "event": 5
+  },
+  {
+    "id": 222,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T11:24:35.303",
+    "event": 1
+  },
+  {
+    "id": 223,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T11:24:42.413",
+    "event": 5
+  },
+  {
+    "id": 224,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T11:37:07.46",
+    "event": 1
+  },
+  {
+    "id": 225,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T11:37:36.253",
+    "event": 1
+  },
+  {
+    "id": 226,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T11:37:42.64",
+    "event": 5
+  },
+  {
+    "id": 227,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T11:46:23.15",
+    "event": 1
+  },
+  {
+    "id": 228,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T11:46:28.57",
+    "event": 5
+  },
+  {
+    "id": 229,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T12:02:24.567",
+    "event": 1
+  },
+  {
+    "id": 230,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-23T12:02:28.867",
+    "event": 5
+  },
+  {
+    "id": 231,
+    "file_name": "",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-24T10:25:04.59",
+    "event": 1
+  },
+  {
+    "id": 232,
+    "file_name": "",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-24T10:26:22.59",
+    "event": 1
+  },
+  {
+    "id": 233,
+    "file_name": "/Starter/D1/TESZTNEWSTRUCT/Drawings/Electrical_drawings/V08.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-24T10:56:33.83",
+    "event": 1
+  },
+  {
+    "id": 234,
+    "file_name": "/Starter/D1/TESZTNEWSTRUCT/Drawings/Electrical_drawings/V07.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-25T11:36:56.163",
+    "event": 1
+  },
+  {
+    "id": 235,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\document.pdf",
+    "login_name": "H2MC",
+    "timestamp": "2021-03-25T14:19:25.257",
+    "event": 5
+  },
+  {
+    "id": 236,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.01.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-30T09:25:26.437",
+    "event": 1
+  },
+  {
+    "id": 237,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_FOK_-_V02.01.00\\FOK_INSTRUCTIONS.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-30T09:25:29.01",
+    "event": 5
+  },
+  {
+    "id": 238,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T11:03:27.747",
+    "event": 1
+  },
+  {
+    "id": 239,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T11:03:32.607",
+    "event": 5
+  },
+  {
+    "id": 240,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T11:08:11.407",
+    "event": 1
+  },
+  {
+    "id": 241,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T11:08:16.977",
+    "event": 5
+  },
+  {
+    "id": 242,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T11:09:06.447",
+    "event": 1
+  },
+  {
+    "id": 243,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T11:09:08.53",
+    "event": 5
+  },
+  {
+    "id": 244,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T11:11:41.487",
+    "event": 1
+  },
+  {
+    "id": 245,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T11:11:43.45",
+    "event": 5
+  },
+  {
+    "id": 246,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T11:16:19.183",
+    "event": 1
+  },
+  {
+    "id": 247,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_ATA_-_V02.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T11:16:20.843",
+    "event": 5
+  },
+  {
+    "id": 248,
+    "file_name": "\\Starter\\D4\\AG0020\\Documentations\\Instructions\\Work_instructions\\ELU\\V01.00.00\\ELU_SGHU_D4_ST20_V003_2018.09.12.pdf",
+    "login_name": "84MC",
+    "timestamp": "2021-03-31T11:16:53.127",
+    "event": 6
+  },
+  {
+    "id": 249,
+    "file_name": "/Starter/D1/TESZT23/Documentations/Drawings/Electrical_drawings/asd.test/undefined",
+    "login_name": "84MC",
+    "timestamp": "2021-03-31T11:22:29.197",
+    "event": 1
+  },
+  {
+    "id": 250,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V04.00.00",
+    "login_name": "84MC",
+    "timestamp": "2021-03-31T11:23:01.667",
+    "event": 1
+  },
+  {
+    "id": 251,
+    "file_name": "/Starter/D1/TESZTNEWSTRUCT/Drawings/Layout/V09.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T16:51:55.067",
+    "event": 1
+  },
+  {
+    "id": 252,
+    "file_name": "/Starter/D1/TESZTNEWSTRUCT/Drawings/Mechanical_drawings/Machine_drawings/Part_drawings/V06.01.043",
+    "login_name": "I2MC",
+    "timestamp": "2021-03-31T17:12:16.227",
+    "event": 1
+  },
+  {
+    "id": 253,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\safety_doggo.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-07T10:43:13.217",
+    "event": 6
+  },
+  {
+    "id": 254,
+    "file_name": "/Starter/D1/TESZTNEWSTRUCT/Drawings/Mechanical_drawings/Hydraulic_drawings/V01.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-04-08T09:17:18.65",
+    "event": 1
+  },
+  {
+    "id": 255,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-04-12T12:06:10.113",
+    "event": 5
+  },
+  {
+    "id": 256,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\humor.PNG",
+    "login_name": "I2MC",
+    "timestamp": "2021-04-14T07:39:01.713",
+    "event": 3
+  },
+  {
+    "id": 257,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\tf2-spy.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-04-14T07:39:01.717",
+    "event": 3
+  },
+  {
+    "id": 258,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\safety_doggo.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-04-14T07:39:01.713",
+    "event": 3
+  },
+  {
+    "id": 259,
+    "file_name": " /Starter/D1/TESZTNEWSTRUCT/Drawings/Electrical_drawings/V07.00.00/humor.PNG",
+    "login_name": "I2MC",
+    "timestamp": "2021-04-14T07:39:48.747",
+    "event": 4
+  },
+  {
+    "id": 260,
+    "file_name": " /Starter/D1/TESZTNEWSTRUCT/Drawings/Electrical_drawings/V07.00.00/Temp_doc.docx",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:25:01.66",
+    "event": 4
+  },
+  {
+    "id": 261,
+    "file_name": " /Starter/D1/TESZTNEWSTRUCT/Drawings/Electrical_drawings/V07.00.00/tf2-spy.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:25:01.587",
+    "event": 4
+  },
+  {
+    "id": 262,
+    "file_name": " /Starter/D1/TESZTNEWSTRUCT/Drawings/Electrical_drawings/V07.00.00/Temp_doc.docx",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:25:01.63",
+    "event": 4
+  },
+  {
+    "id": 263,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\2020-12-23_08h55_00.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:25:48.253",
+    "event": 5
+  },
+  {
+    "id": 264,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\humor.PNG",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:26:12.487",
+    "event": 5
+  },
+  {
+    "id": 265,
+    "file_name": " /Starter/D1/TESZTNEWSTRUCT/Drawings/Electrical_drawings/V07.00.00/safety_doggo.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:26:46.49",
+    "event": 4
+  },
+  {
+    "id": 266,
+    "file_name": " /Starter/D1/TESZTNEWSTRUCT/Drawings/Electrical_drawings/V07.00.00/humor.PNG",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:26:47.013",
+    "event": 4
+  },
+  {
+    "id": 267,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\2020-12-23_08h55_00.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:28:38.493",
+    "event": 5
+  },
+  {
+    "id": 268,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\crying.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:28:49.557",
+    "event": 5
+  },
+  {
+    "id": 269,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\2020-12-23_08h55_00(1).png",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:29:03.78",
+    "event": 5
+  },
+  {
+    "id": 270,
+    "file_name": " /Starter/D1/TESZTNEWSTRUCT/Drawings/Electrical_drawings/V07.00.00/crying.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:29:18.07",
+    "event": 4
+  },
+  {
+    "id": 271,
+    "file_name": " /Starter/D1/TESZTNEWSTRUCT/Drawings/Electrical_drawings/V07.00.00/2020-12-23_08h55_00.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-04-14T08:29:18.647",
+    "event": 4
+  },
+  {
+    "id": 272,
+    "file_name": "/Starter/D1/TESZTNEWSTRUCT/Control/PLC/V01.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-04-14T09:44:58.407",
+    "event": 1
+  },
+  {
+    "id": 273,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Layout\\V09.00.00\\Background.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-04-15T08:57:40.217",
+    "event": 5
+  },
+  {
+    "id": 274,
+    "file_name": "\\TEMPFILES\\Starter_-_D2_-_AG3800_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-04-30T09:52:30.823",
+    "event": 1
+  },
+  {
+    "id": 275,
+    "file_name": "\\TEMPFILES\\Starter_-_D2_-_AG3800_-_FOK_-_V02.00.00\\FOK_INSTRUCTIONS.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-04-30T09:52:30.943",
+    "event": 5
+  },
+  {
+    "id": 276,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_MIU_-_V02.00.00",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:08:59.277",
+    "event": 1
+  },
+  {
+    "id": 277,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_MIU_-_V02.00.00\\Koala.jpg",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:08:59.417",
+    "event": 5
+  },
+  {
+    "id": 278,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_HSE_-_V02.00.00",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:12:03.82",
+    "event": 1
+  },
+  {
+    "id": 279,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_HSE_-_V02.00.00\\Lighthouse.jpg",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:12:03.983",
+    "event": 5
+  },
+  {
+    "id": 280,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_HSE_-_V03.00.00",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:14:05.42",
+    "event": 1
+  },
+  {
+    "id": 281,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_HSE_-_V03.00.00\\Koala.jpg",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:14:05.62",
+    "event": 5
+  },
+  {
+    "id": 282,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Instructions\\Work_instructions//Procedure_instructions",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:26:54.707",
+    "event": 3
+  },
+  {
+    "id": 283,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Instructions\\Work_instructions//Maintenance_instructions",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:26:54.693",
+    "event": 3
+  },
+  {
+    "id": 284,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Instructions\\Work_instructions//MIU",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:26:54.847",
+    "event": 3
+  },
+  {
+    "id": 285,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Instructions\\Work_instructions//MIU",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:26:54.847",
+    "event": 3
+  },
+  {
+    "id": 286,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Instructions\\Work_instructions//GYEU",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:26:54.847",
+    "event": 3
+  },
+  {
+    "id": 287,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Instructions\\Work_instructions//ELU",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:26:54.863",
+    "event": 3
+  },
+  {
+    "id": 288,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Instructions\\Work_instructions//Lessons_learned",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:26:54.893",
+    "event": 3
+  },
+  {
+    "id": 289,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Instructions\\Work_instructions//ELU",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:26:54.91",
+    "event": 3
+  },
+  {
+    "id": 290,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Instructions\\Work_instructions//Work_instructions",
+    "login_name": "K2MC",
+    "timestamp": "2021-04-30T14:26:56.067",
+    "event": 3
+  },
+  {
+    "id": 291,
+    "file_name": "\\TEMPFILES\\Starter_-_D2_-_AG3610_-_FOK_-_V02.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-03T10:00:59.217",
+    "event": 1
+  },
+  {
+    "id": 292,
+    "file_name": "\\TEMPFILES\\Starter_-_D2_-_AG3610_-_FOK_-_V02.00.00\\FOK_INSTRUCTIONS.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-03T10:01:08.937",
+    "event": 5
+  },
+  {
+    "id": 293,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_GYEU_-_V01.00.01",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-04T11:03:07.577",
+    "event": 1
+  },
+  {
+    "id": 294,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZT23_-_GYEU_-_V01.00.01\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-04T11:03:15.577",
+    "event": 5
+  },
+  {
+    "id": 295,
+    "file_name": "/Starter/D1/TESZTNEWSTRUCT/Documentations/Instructions/Work_instructions/FOK/V05.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-05T10:04:32.057",
+    "event": 1
+  },
+  {
+    "id": 296,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V05.00.01",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-05T11:03:23.56",
+    "event": 1
+  },
+  {
+    "id": 297,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V05.00.01\\FOK_INSTRUCTIONS.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-05T11:03:24.727",
+    "event": 5
+  },
+  {
+    "id": 298,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V05.00.01",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-05T11:17:14.527",
+    "event": 1
+  },
+  {
+    "id": 299,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V05.00.01\\FOK_INSTRUCTIONS.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-05T11:17:15.65",
+    "event": 5
+  },
+  {
+    "id": 300,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V05.00.01",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-05T11:18:44.94",
+    "event": 1
+  },
+  {
+    "id": 301,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V05.00.01\\FOK_INSTRUCTIONS.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-05T11:18:46.043",
+    "event": 5
+  },
+  {
+    "id": 302,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V05.00.01",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-05T11:19:49.46",
+    "event": 1
+  },
+  {
+    "id": 303,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V05.00.01\\FOK_INSTRUCTIONS.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-05T11:19:50.327",
+    "event": 5
+  },
+  {
+    "id": 304,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V05.00.01",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-05T11:20:54.163",
+    "event": 1
+  },
+  {
+    "id": 305,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V05.00.01",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-06T08:36:30.507",
+    "event": 1
+  },
+  {
+    "id": 306,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Documentations\\Instructions\\Work_instructions\\\\V05.00.01\\FOK_INSTRUCTIONS.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-06T09:02:13.543",
+    "event": 5
+  },
+  {
+    "id": 307,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Documentations\\Instructions\\Work_instructions\\\\V05.00.01\\FOK_INSTRUCTIONS.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-06T09:06:54.63",
+    "event": 5
+  },
+  {
+    "id": 308,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Documentations\\Instructions\\Work_instructions\\FOK\\V05.00.01\\FOK_INSTRUCTIONS.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-06T09:10:49.783",
+    "event": 5
+  },
+  {
+    "id": 309,
+    "file_name": "\\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V03.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-10T08:51:51.98",
+    "event": 5
+  },
+  {
+    "id": 310,
+    "file_name": "\\TEMPFILES\\Starter_-_D1_-_TESZTNEWSTRUCT_-_FOK_-_V06.00.00",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-10T08:52:53.807",
+    "event": 1
+  },
+  {
+    "id": 311,
+    "file_name": "/TEMPFILES/\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-10T12:17:52.517",
+    "event": 5
+  },
+  {
+    "id": 312,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.01.00\\document.pdf",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T07:50:23.617",
+    "event": 3
+  },
+  {
+    "id": 313,
+    "file_name": " \\Starter\\D1\\TESZT23\\Documentations\\Drawings\\Electrical_drawings\\V01.00.00\\Layout\\document.pdf",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T07:56:20.027",
+    "event": 4
+  },
+  {
+    "id": 314,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\2020-12-23_08h55_00(1).png",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:08:16.073",
+    "event": 4
+  },
+  {
+    "id": 315,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\humor.PNG",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:18:47.837",
+    "event": 5
+  },
+  {
+    "id": 316,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\Screen Shot 2020-09-15 at 08.44.23-fullpage.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:18:47.88",
+    "event": 5
+  },
+  {
+    "id": 317,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\Screen Shot 2020-10-19 at 11.39.45-fullpage.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:18:47.993",
+    "event": 5
+  },
+  {
+    "id": 318,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\Screen Shot 2020-10-19 at 11.39.45-fullpage.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:18:59.727",
+    "event": 4
+  },
+  {
+    "id": 319,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V07.00.00\\Screen Shot 2020-09-15 at 08.44.23-fullpage.png",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:18:59.903",
+    "event": 4
+  },
+  {
+    "id": 320,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.00.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:27:18.733",
+    "event": 1
+  },
+  {
+    "id": 321,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.00.00\\crying.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:27:49.837",
+    "event": 5
+  },
+  {
+    "id": 322,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.00.00\\brainlettt.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:27:49.86",
+    "event": 5
+  },
+  {
+    "id": 323,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.01.00",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:28:18.427",
+    "event": 1
+  },
+  {
+    "id": 324,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.01.00\\crying.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T08:28:35.72",
+    "event": 3
+  },
+  {
+    "id": 325,
+    "file_name": "\\Starter\\D1\\TESZT23\\Control\\PLC\\V01.00.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-11T10:35:05.657",
+    "event": 5
+  },
+  {
+    "id": 326,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.01.00\\brainlettt.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T10:40:32.037",
+    "event": 4
+  },
+  {
+    "id": 327,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.01.00\\crying.jpg",
+    "login_name": "H2MC",
+    "timestamp": "2021-05-11T10:41:29.053",
+    "event": 4
+  },
+  {
+    "id": 328,
+    "file_name": "\\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.01.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-11T11:47:30.683",
+    "event": 5
+  },
+  {
+    "id": 329,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.01.00\\Temp_doc.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-11T11:47:37.713",
+    "event": 4
+  },
+  {
+    "id": 330,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.01.00\\brainlettt.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-11T11:48:12.03",
+    "event": 4
+  },
+  {
+    "id": 331,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.01.00\\crying.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-11T11:48:12.03",
+    "event": 4
+  },
+  {
+    "id": 332,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.00.00\\brainlettt.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-11T11:48:28.17",
+    "event": 3
+  },
+  {
+    "id": 333,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.00.00\\crying.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-11T11:48:28.177",
+    "event": 3
+  },
+  {
+    "id": 334,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.01.00\\brainlettt.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-11T11:48:47.34",
+    "event": 4
+  },
+  {
+    "id": 335,
+    "file_name": " \\Starter\\D1\\TESZTNEWSTRUCT\\Drawings\\Electrical_drawings\\V08.01.00\\crying.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-11T11:48:47.343",
+    "event": 4
+  },
+  {
+    "id": 336,
+    "file_name": "\\TEMPFILES\\D1_TESZTNEWSTRUCT_FOK_INSTRUCTIONS.docx_OpconData",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-12T09:59:16.417",
+    "event": 5
+  },
+  {
+    "id": 337,
+    "file_name": "\\TEMPFILES\\D1_AG3600_FOK_INSTRUCTIONS.docx_Std",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-12T10:56:22.547",
+    "event": 5
+  },
+  {
+    "id": 338,
+    "file_name": "\\TEMPFILES\\D2_AG3500_FOK_INSTRUCTIONS_OpconData.docx,D2_AG3500_Temp_doc_OpconData.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-12T10:58:55.523",
+    "event": 5
+  },
+  {
+    "id": 339,
+    "file_name": "\\TEMPFILES\\D2_AG3500_FOK_INSTRUCTIONS_OpconData.docx,D2_AG3500_Temp_doc_OpconData.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-12T10:58:56.683",
+    "event": 5
+  },
+  {
+    "id": 340,
+    "file_name": "\\TEMPFILES\\null_null_FOK_INSTRUCTIONS_null.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-12T11:07:58.017",
+    "event": 5
+  },
+  {
+    "id": 341,
+    "file_name": "\\TEMPFILES\\null_null_Temp_doc_null.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-12T11:08:16.9",
+    "event": 5
+  },
+  {
+    "id": 342,
+    "file_name": "\\TEMPFILES\\D2_AG3500_FOK_INSTRUCTIONS_Std.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-12T11:08:43.737",
+    "event": 5
+  },
+  {
+    "id": 343,
+    "file_name": "\\TEMPFILES\\D2_AG3500_Temp_doc_Std.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-12T11:08:46.01",
+    "event": 5
+  },
+  {
+    "id": 344,
+    "file_name": " \\TEMPFILES\\crying2.jpg",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-13T11:06:48.453",
+    "event": 4
+  },
+  {
+    "id": 345,
+    "file_name": " \\TEMPFILES\\D2_AG3500_Temp_doc_Std.docx",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-13T11:07:16.16",
+    "event": 4
+  },
+  {
+    "id": 346,
+    "file_name": " \\TEMPFILES\\D1_AG3400_2020-09-23_09h35_50.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-14T07:46:12.773",
+    "event": 4
+  },
+  {
+    "id": 347,
+    "file_name": " \\TEMPFILES\\D1_AG3400_2021-01-04_07h24_08.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-14T08:26:46.087",
+    "event": 4
+  },
+  {
+    "id": 348,
+    "file_name": " \\TEMPFILES\\2020-09-23_09h35_50.png",
+    "login_name": "I2MC",
+    "timestamp": "2021-05-14T08:26:46.087",
+    "event": 4
+  }
+]
