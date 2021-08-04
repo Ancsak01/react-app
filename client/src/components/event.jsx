@@ -2,7 +2,6 @@ import React from 'react';
 import axios from 'axios';
 import { InputGroup } from 'react-bootstrap';
 import Moment from 'moment';
-import FilterData from './filter-data'
 
 class Event extends React.Component {
     constructor(props) {

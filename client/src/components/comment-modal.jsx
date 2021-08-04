@@ -77,7 +77,6 @@ export default class CommentModal extends React.Component {
 
                     <Modal.Footer>
                         <Button variant="secondary" onClick={this.props.onClose}>Close</Button>
-                        <Button variant="primary">Save changes</Button>
                     </Modal.Footer>
                 </Modal.Dialog>
             </Modal>

@@ -1,6 +1,4 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import Comments from './comments';
 
 export default class Nav extends React.Component {
     constructor(props) {
